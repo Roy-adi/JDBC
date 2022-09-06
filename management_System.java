@@ -24,4 +24,9 @@ import java.sql.SQLException ;
         break ;
     case 4 :
         e.deleteMenudriven ( ) ;
+        break;
+    }
+        while(ch!5);
+                        }}}                    
+         
                                              
